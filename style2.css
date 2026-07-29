@@ -100,3 +100,21 @@ p {
     display: inline;
     display: block;
 }
+
+ #prob{
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    color: #C9A227
+    border-bottom: 5px solid #C9A227;
+    position: absolute;
+    display: inline;
+    display: block;
+    font-size: 50px; 
+ }
+
+ input {
+    width: 100%;
+    max-width: 400px;
+    height: 50px;
+    
+ }
