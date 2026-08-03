@@ -82,6 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 200px;
 
+    margin-top: 10px;
 }
 
 p { 
@@ -89,7 +90,18 @@ p {
     color: #3D4A52;
     font-style: normal;
     display: flex;
-    
+
+}
+
+#mission { 
+    font-size: 40px;
+    color: #3D4A52;
+    font-style: normal;
+    display: flex;
+    margin-top: -150px;
+    font-weight: 200;
+    margin-left: 10px;
+
 }
 #cv {
     margin-top: 20px;
@@ -118,3 +130,20 @@ p {
     height: 50px;
     
  }
+ div {
+    margin-left: 20px;
+ }
+
+h2 {
+    margin-top: 200px;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    font-size: 50px;
+}
+
+.div-line {
+    border-top: 3px solid #0B1F33;
+    width: 98%;
+    margin: 15px 0;
+}
+ 
