@@ -145,5 +145,27 @@ h2 {
     border-top: 3px solid #0B1F33;
     width: 98%;
     margin: 15px 0;
+    margin-bottom: 100px;
+}
+
+.stats {
+  text-decoration: none;
+  font-size:200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+
+}
+
+.describe {
+    text-decoration: none;
+    font-size:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: -500px; 
+
 }
  
